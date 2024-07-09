@@ -31,9 +31,13 @@ _Important_: Make sure to restart the server if you change any env variable(s).
 
 ### 4. Start the App
 
-Head into the `server` directory and run `npm run dev`. If everything was setup correctly, you'll see something like this:
+1. Head into the `server` directory and run `npm run dev`. If everything was setup correctly, you'll see something like this:
 
 ![Server running](image.png)
+
+2. To start the client dev server, head into the client directory by running `cd client` from the root directory. 
+3. Then run `npm install` to download all the required packages. 
+4. And then run `npm run dev` to start the vite dev server. 
 
 ## Available Routes
 
